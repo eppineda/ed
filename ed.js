@@ -1,7 +1,3 @@
-/**
- * Copyright (c) 2014 Enrique Pineda. All rights reserved.
- */
- 
 var crypto = require('crypto');
 
 function encrypt(secret, password) {
@@ -20,7 +16,3 @@ function decrypt(secret, password) {
 
 exports.encrypt = encrypt;
 exports.decrypt = decrypt;
-
-/**
- * Copyright (c) 2014 Enrique Pineda. All rights reserved.
- */

@@ -1,7 +1,3 @@
-/**
- * Copyright (c) 2014 Enrique Pineda. All rights reserved.
- */
-
 var assert = require('Assert');
 var nomnom = require('nomnom')
     .option('encrypt', {
@@ -54,7 +50,3 @@ if (!nomnom.encrypt && !nomnom.decrypt) {
     }
     assert.equal(d, nomnom.secret);
 }
-
-/**
- * Copyright (c) 2014 Enrique Pineda. All rights reserved.
- */
