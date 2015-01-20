@@ -3,7 +3,7 @@ ed
 
 I. Summary
 
-An AES-192 encryption and decription wrapper library for crypto.
+An AES-192 encryption and decryption wrapper library for crypto.
 
 For more information about AES, visit 
 https://en.wikipedia.org/w/index.php?title=Advanced_Encryption_Standard
