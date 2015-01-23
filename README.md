@@ -8,8 +8,8 @@ An AES-192 encryption and decryption wrapper library for crypto.
 For more information about AES, visit 
 https://en.wikipedia.org/w/index.php?title=Advanced_Encryption_Standard
 
-*app.js - is a command-line script for testing
-*ed.js - is the library
+* app.js - is a command-line script for testing
+* ed.js - is the library
 
 II. Introduction
 
