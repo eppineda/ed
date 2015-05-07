@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var assert = require('Assert');
 var nomnom = require('nomnom')
     .option('encrypt', {
